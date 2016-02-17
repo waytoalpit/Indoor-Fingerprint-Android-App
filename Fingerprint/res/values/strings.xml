@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fingerprint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_load_map">Load Map</string>
+    <string name="empty_area_text">Press menu key to Load Map&#8230;</string>
+    <string name="map_view_name">Map area</string>
+    <string name="iterations_count">Scan count</string>
+    <string name="interval_size">Interval size</string>
+    <string name="save">Save</string>
+
+</resources>

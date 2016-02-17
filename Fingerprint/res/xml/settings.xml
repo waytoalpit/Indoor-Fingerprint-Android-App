@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:title="Fingerprint Iterations"
+                      android:key="iterations"
+                      android:defaultValue="5"
+                      android:inputType="number"
+                      android:summary="Set Fingerprint iterations at selected location" />
+    <EditTextPreference android:title="Fingerprint Interval"
+                      android:key="interval"
+                      android:inputType="number"
+                      android:defaultValue="5"
+                      android:summary="Set Interval(in sec) between successive Fingerprints"/>
+</PreferenceScreen>
